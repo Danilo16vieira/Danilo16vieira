@@ -1,4 +1,5 @@
-## Hi there 👋
+## **__Hi there 👋 aproveite bem o meu perfil__** 
+Estou no rumo de fazer todos os projetos no meu Alura, venha me acompanhar nessa jornada
 
 <!--
 **Danilo16vieira/Danilo16vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
